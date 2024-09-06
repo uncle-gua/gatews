@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	gate "github.com/gateio/gatews/go"
+	gate "github.com/uncle-gua/gatews"
 )
 
 func main2() {
